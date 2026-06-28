@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Vedang Banner" width="100%">
+</p>
 # Hi there, I'm Vedang Satardekar 👋
 
 🎓 **Final Year B.Tech Computer Engineering Student**
