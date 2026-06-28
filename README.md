@@ -25,7 +25,7 @@ I'm passionate about building practical software solutions that combine **Artifi
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/firebase" title="Firebase" width="45" height="45"/>
 </p>
 
 ### Tools & Platforms
