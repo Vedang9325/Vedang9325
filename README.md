@@ -82,7 +82,7 @@ Interactive ESG dashboard built with Python and Streamlit for sustainability ins
 
 ## 📫 Connect with Me
 
-* LinkedIn: Vedang Satardekar
+* LinkedIn: [Vedang Satardekar](https://www.linkedin.com/in/vedang-satardekar/)
 * Email: vedang.satardekar@gmail.com
 
 Thanks for visiting my profile! ⭐
