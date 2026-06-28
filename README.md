@@ -43,7 +43,7 @@ I'm passionate about building practical software solutions that combine **Artifi
 
 ## 🌟 Featured Projects
 
-### 🎵 SonicVibe Studio Pro
+### 🎵 SonicVibe Studio
 
 AI-powered music genre classification web application built using Streamlit, Librosa and Machine Learning.
 
